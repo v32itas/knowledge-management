@@ -23,3 +23,12 @@ This is not yet for datamining. It's just improving the ability to get right kno
 2. [google+ API](https://developers.google.com/+/web/api/rest/) data extractor module
 3. [skype API](http://www.skype.com/en/developer/) data exchange module
 4. ....
+
+##4. [System Architecture](https://en.wikipedia.org/wiki/Systems_architecture) based on [Systems Thinking](https://en.wikipedia.org/wiki/Systems_thinking)
+It is in progress, but just to name a few basic principles:
+1. Keep it Simple Stupid
+2. Security Trough Simplicity and Transparency
+3. Flexibility - By being able to replace any part(script) of the System quickly.
+4. Efficiency - By automating every single boring task if possible.
+5. Keeping system attack surface from minimal to invisible, by reducing human element and promoting the practice of [The Fifth Discipline](https://en.wikipedia.org/wiki/The_Fifth_Discipline)
+
