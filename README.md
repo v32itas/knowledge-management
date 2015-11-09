@@ -1,5 +1,8 @@
 # [knowledge-management](https://en.wikipedia.org/wiki/Knowledge_management)
+This Header 'knowledge-management' is just as domain for this pile of scripts.
 
+##0. [Perl](http://www.perlmonks.org/)
+Perl is just because every single system admin that I respect (like 'Urchlay' from \#\#slackware), recommended me to learn Perl. Now when I started I cannot explain it yet, but I already feel why.
 ##1. Concept of The System
 This is not yet for datamining. It's just improving the ability to get right knowledge while wasting no time for for browsing web. Datamining is hardcore. This is just 50/50 manual/auto work.
 ### [Data Extraction](https://en.wikipedia.org/wiki/Data_extraction)
