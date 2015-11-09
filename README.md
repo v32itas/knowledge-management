@@ -25,7 +25,9 @@ This is not yet for datamining. It's just improving the ability to get right kno
 4. ....
 
 ##4. [System Architecture](https://en.wikipedia.org/wiki/Systems_architecture) based on [Systems Thinking](https://en.wikipedia.org/wiki/Systems_thinking)
+
 It is in progress, but just to name a few basic principles:
+
 1. Keep it Simple Stupid
 2. Security Trough Simplicity and Transparency
 3. Flexibility - By being able to replace any part(script) of the System quickly.
