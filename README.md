@@ -11,8 +11,8 @@ This is not yet for datamining. It's just improving the ability to get right kno
  
 
 ##2. In progress
-1. **Perl** [Simple IRC Bot](http://search.cpan.org/~hinrik/Bot-BasicBot-0.89/lib/Bot/BasicBot.pm)  [command and control C5I](https://en.wikipedia.org/wiki/Command_and_control).
-2. **Perl** [yellowAPI](http://www.yellowapi.com/docs/places/) - data extractor [module](https://github.com/v32itas/systems-thinking/blob/scraps/yellowapi-scrap.pl)
+1. **Perl** Simple [IRC Bot](http://search.cpan.org/~hinrik/Bot-BasicBot-0.89/lib/Bot/BasicBot.pm) for [command and control C5I](https://en.wikipedia.org/wiki/Command_and_control).
+2. **Perl** [yellowAPI](http://www.yellowapi.com/docs/places/) - data extractor. [module](https://github.com/v32itas/systems-thinking/blob/scraps/yellowapi-scrap.pl)
 3. **Perl** [Facebook API](https://developers.facebook.com/) data exchange module.
 
 ##3. To-do
