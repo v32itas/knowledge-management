@@ -12,8 +12,8 @@ This is not yet for datamining. It's just improving the ability to get right kno
 
 ## In progress
 1. Simple Perl IRC API bot(building).
-2. yellowAPI data extractor module(improvement) - (yellowapi-scrap.pl)
-3. Facebook API data exchange module(building)
+2. yellowAPI Perl data extractor module(improvement) - (yellowapi-scrap.pl)
+3. Facebook API Perl data exchange module(building)
 
 ## To-do
 1. Pinterest API data extractor module
